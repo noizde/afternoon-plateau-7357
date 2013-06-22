@@ -4,13 +4,13 @@ function AreaCtrl($scope) {
     "name": "Nationwide",
     "branches": [{
         "name": "Human Nature",
-        "text": "Our super pro-philippines, pro-poor, pro-environment partner"
+        "text": "Our super pro-Philippines, pro-poor, pro-environment partner"
       },{
         "name": "Chicken Charlie",
         "text": "Must. Absolutely. Try. That Signature Burger."
       },{
         "name": "The Frap Bar",
-        "text": "Rumor has it the Fraps are just as good, if not better than the iced tea."
+        "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea."
       },
     ]
   }
@@ -18,8 +18,8 @@ function AreaCtrl($scope) {
   $scope.areasLuzon = {
     "name": "Luzon",
     "branches": [{
-        "name": "Hill Station (Baguio",
-        "text": "Recognized as one of the best restos in Asia by the international Miele Guide. Twice. ‘nuf said."
+        "name": "Hill Station (Baguio)",
+        "text": "Recognized as one of the best restos in Asia by the international Miele Guide. Twice. ‘nuff said."
       },{
         "name": "Hungry Ant (Baguio)",
         "text": "Go to the cafe where the sweet tooth leads you"
@@ -30,7 +30,7 @@ function AreaCtrl($scope) {
         "name": "Circle Hostel (La Union and Zambales)",
         "text": "Budget-friendly. Check. Eco-friendly. Check. Artsy/Adventurous Sanctuary. Check. Cool friendly people. Check. Then why go anywhere else when the surf’s up?"
       },{
-        "name": "Café Antonio (Los Banos)",
+        "name": "Café Antonio (Los Baños)",
         "text": "A culinary indulgence smack in the birthplace of our national hero. The Doc would be proud their serving his favourite brew."
       }
     ]
@@ -68,7 +68,7 @@ function AreaCtrl($scope) {
         "text": "Naks, ang sosy."
       },{
         "name": "Anton Guerrero (+63917-884-4111)",
-        "text": " Reseller of everything hard to find. But first you have to find him."
+        "text": "Reseller of everything hard to find. But first you have to find him."
       }]
     },{
       "name": "The Fort/BGC",
@@ -101,10 +101,10 @@ function AreaCtrl($scope) {
         "text" : "After that knock-out punch, nothing’s better than gulping down an ice-cold Bayani Brew."
       },{
         "name": "Mario’s (Tomas Morato)",
-        "text" : "t’s the longest running resto on the block. Dine there and you’ll find out why."
+        "text" : "It’s the longest running resto on the block. Dine there and you’ll find out why."
       },{
         "name": "Mezza Norte Trinoma",
-        "text" : "Ultimate eats at the north every Friday, Sat and Sunday!"
+        "text" : "Ultimate eats at the North every Friday, Sat and Sunday!"
       },{
         "name": "Nomama (Scout Tuason)",
         "text" : "Not your mama’s ramen also serves not your ordinary iced tea."
