@@ -11,43 +11,8 @@ body {
 	font-weight: bold;
 }
 
-/*p {
-	color: red;
+.nolink {
+	text-decoration: none;
+	color: black;
+	cursor: default;	
 }
-
-div#navbar {
-
-	display: inline-block;
-	background: #AAA;
-	padding: 10px 5px 10px 5px;
-	position: fixed;
-	border-radius: 4px;
-}
-
-div#contents {
-	display: block;
-	vertical-align: top;
-	background: #AAA;
-	padding: 8px;
-	position: relative;
-	border-radius: 4px;
-	width: 94%;
-	left: 30px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-body {
-	background-color: black;
-}
-
-div#center {
-	margin-left: auto;
-	margin-right: auto;
-	width: 100%;
-	text-align: center;
-}
-
-img#cat {
-	float: right;
-}*/
