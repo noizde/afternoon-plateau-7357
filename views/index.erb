@@ -23,7 +23,7 @@
       <div>
         <ul>
           <li ng-repeat = "item in areasNationwide.branches">
-            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}" target="_parent">{{item.name}}</a> - {{item.text}}
+            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
           </li>
         </ul>  
       </div>
@@ -43,7 +43,7 @@
           <div>
             <ul>
               <li ng-repeat = "item in area.branches">
-                <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}" target="_parent">{{item.name}}</a> - {{item.text}}
+                <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
               </li>
             </ul>  
           </div>
@@ -58,7 +58,7 @@
       <div>
         <ul>
           <li ng-repeat = "item in areasLuzon.branches">
-            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}" target="_parent">{{item.name}}</a> - {{item.text}}
+            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
           </li>
         </ul>  
       </div>
@@ -71,7 +71,7 @@
       <div>
         <ul>
           <li ng-repeat = "item in areasVisayas.branches">
-            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a> - {{item.text}}
+            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
           </li>
         </ul>  
       </div>
