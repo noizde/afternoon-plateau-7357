@@ -14,7 +14,7 @@ function AreaCtrl($scope) {
         "name": "The Frap Bar",
         "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea.",
         "link": "http://thefrapbar.weebly.com/ "
-      },
+      }
     ]
   }
 
@@ -40,6 +40,14 @@ function AreaCtrl($scope) {
         "name": "Café Antonio (Los Baños)",
         "text": "A culinary indulgence smack in the birthplace of our national hero. The Doc would be proud their serving his favourite brew.",
         "link": "http://www.facebook.com/pages/Cafe-Antonio/123163690283"
+      },{
+        "name": "Ganso Shabuway (Alabang Town Center)",
+        "text": "",
+        "link": "https://www.facebook.com/GansoShabuwayPH‎"
+      },{
+        "name": "Namee Sunico (Alabang, Makati, Pampanga. +63917-564-0647)",
+        "text": "",
+        "link": ""
       }
     ]
   }
@@ -86,6 +94,14 @@ function AreaCtrl($scope) {
         "name": "Anton Guerrero (+63917-884-4111)",
         "text": "Reseller of everything hard to find. But first you have to find him.",
         "link": ""
+      },{
+        "name": "Rockwell Power Plant Mall (P1 Concourse Level)",
+        "text": "",
+        "link": ""
+      },{
+        "name": "Ganso Shabuway (Greenbelt 5 and Power Plant Mall)",
+        "text": "",
+        "link": "https://www.facebook.com/GansoShabuwayPH‎"
       }]
     },{
       "name": "The Fort/BGC",
@@ -108,7 +124,11 @@ function AreaCtrl($scope) {
       },{
         "name": "Midnight Mercato",
         "text": "Your ultimate go-to for your midnight munchies on late night Fridays/Saturdays or right after stalking the Azkals/Younghusbands during soccer practice (what? They don’t play there?)",
-        "link": "https://www.facebook.com/midnightmercato "
+        "link": "https://www.facebook.com/midnightmercato"
+      },{
+        "name": "Sunshine Kitchen",
+        "text": "Artisanal Pizzas + Salads + Soups + Meals",
+        "link": "https://www.facebook.com/sunshinekitchen.resto"
       }]
     },{
       "name": "Quezon City",
@@ -136,13 +156,17 @@ function AreaCtrl($scope) {
         "name": "Nomama (Scout Tuason)",
         "text" : "Not your mama’s ramen also serves not your ordinary iced tea.",
         "link": "http://www.facebook.com/nomamaramen"
-      }]
-    },{
-      "name": "Greenhills",
-      "branches": [{
-        "name": "The Appraisery",
+      },{
+        "name": "The Appraisery (Cubao X)",
         "text" : "Great concept! Vintage fashion meets yummy food. And while snacking and shopping, have a nice chit-chat with the store owner/bartender.",
         "link": "http://www.theappraisery.com/"
+      }]
+    },{
+      "name": "Mandaluyong",
+      "branches": [{
+        "name": "Ganso Shabuway (Shangrli-La Plaza)",
+        "text" : "",
+        "link": "https://www.facebook.com/GansoShabuwayPH‎"
       }]
     },{
       "name": "Kapitolyo",
