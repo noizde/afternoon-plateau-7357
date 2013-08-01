@@ -10,10 +10,6 @@ function AreaCtrl($scope) {
         "name": "Chicken Charlie",
         "text": "Must. Absolutely. Try. That Signature Burger.",
         "link": "http://chickencharlie.com.ph/branches/"
-      },{
-        "name": "The Frap Bar",
-        "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea.",
-        "link": "http://thefrapbar.weebly.com/ "
       }
     ]
   }
@@ -167,6 +163,13 @@ function AreaCtrl($scope) {
         "name": "Ganso Shabuway (Shangrli-La Plaza)",
         "text" : "",
         "link": "https://www.facebook.com/GansoShabuwayPH‎"
+      }]
+    },{
+      "name": "Marikina",
+      "branches": [{
+        "name": "The Frap Bar",
+        "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea.",
+        "link": "http://thefrapbar.weebly.com/ "
       }]
     },{
       "name": "Kapitolyo",
