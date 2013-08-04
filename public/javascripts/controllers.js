@@ -25,6 +25,10 @@ function AreaCtrl($scope) {
         "text": "Go to the cafe where the sweet tooth leads you",
         "link": ""
       },{
+        "name": "Starpines (Baguio)",
+        "text": "Go to the cafe where the sweet tooth leads you",
+        "link": "https://www.facebook.com/pages/Starpines-Minimart/203657109674477"
+      },{
         "name": "GK Enchanted Farm (Bulacan)",
         "text": "But of course! An incubator of social enterprises.",
         "link": "http://www.facebook.com/Gkenchantedfarm"
