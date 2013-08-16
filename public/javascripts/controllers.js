@@ -160,6 +160,14 @@ function AreaCtrl($scope) {
         "name": "The Appraisery (Cubao X)",
         "text" : "Great concept! Vintage fashion meets yummy food. And while snacking and shopping, have a nice chit-chat with the store owner/bartender.",
         "link": "http://www.theappraisery.com/"
+      },{
+        "name": "Adarna Food and Culture (Kalayaan Ave)",
+        "text" : "Serves historical and heirloom cuisine. A mini-museum and home to cultural and art events like the Tertulia!",
+        "link": "https://www.facebook.com/pages/Adarna-Food-and-Culture-Restaurant/42990250925"
+      },{
+        "name": "Gayuma ni Maria (V. Luna Extension, Sikatuna)",
+        "text" : "The ORIGINAL bewitchingly gastronomic restaurant gayuma.",
+        "link": "https://www.facebook.com/pages/Gayuma-Ni-Maria/148108488537188"
       }]
     },{
       "name": "Mandaluyong",
@@ -167,6 +175,13 @@ function AreaCtrl($scope) {
         "name": "Ganso Shabuway (Shangrli-La Plaza)",
         "text" : "",
         "link": "https://www.facebook.com/GansoShabuwayPH‎"
+      }]
+    },{
+      "name": "Pasig",
+      "branches": [{
+        "name": "Yellow Halo (Strata 100, Ortigas)",
+        "text" : "Head to this haven at the Wellness Alliance for some guilt-free dining! Then try pole dancing at the nearby Polecats Manila studio while you're at it.",
+        "link": "https://www.facebook.com/YellowHaloGuiltFreeKitchen"
       }]
     },{
       "name": "Marikina",
