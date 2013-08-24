@@ -102,6 +102,10 @@ function AreaCtrl($scope) {
         "name": "Ganso Shabuway (Greenbelt 5 and Power Plant Mall)",
         "text": "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
+      },{
+        "name": "Bayani Wholesale Distribution (624-8593)",
+        "text": "For orders in bulk.",
+        "link": "http://bayanidistribution.com/"
       }]
     },{
       "name": "The Fort/BGC",
@@ -189,6 +193,10 @@ function AreaCtrl($scope) {
         "name": "The Frap Bar",
         "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea.",
         "link": "http://thefrapbar.weebly.com/ "
+      },{
+        "name": "Bayani Wholesale Distribution (624-8593)",
+        "text": "For orders in bulk.",
+        "link": "http://bayanidistribution.com/"
       }]
     },{
       "name": "Kapitolyo",
