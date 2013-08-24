@@ -43,7 +43,7 @@ function AreaCtrl($scope) {
       },{
         "name": "Ganso Shabuway (Alabang Town Center)",
         "text": "",
-        "link": "https://www.facebook.com/GansoShabuwayPH‎"
+        "link": "https://www.facebook.com/GansoShabuwayPH"
       },{
         "name": "Namee Sunico (Alabang, Makati, Pampanga. +63917-564-0647)",
         "text": "",
@@ -101,7 +101,7 @@ function AreaCtrl($scope) {
       },{
         "name": "Ganso Shabuway (Greenbelt 5 and Power Plant Mall)",
         "text": "",
-        "link": "https://www.facebook.com/GansoShabuwayPH‎"
+        "link": "https://www.facebook.com/GansoShabuwayPH"
       }]
     },{
       "name": "The Fort/BGC",
@@ -174,7 +174,7 @@ function AreaCtrl($scope) {
       "branches": [{
         "name": "Ganso Shabuway (Shangrli-La Plaza)",
         "text" : "",
-        "link": "https://www.facebook.com/GansoShabuwayPH‎"
+        "link": "https://www.facebook.com/GansoShabuwayPH"
       }]
     },{
       "name": "Pasig",
