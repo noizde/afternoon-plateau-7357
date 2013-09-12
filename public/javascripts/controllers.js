@@ -48,6 +48,10 @@ function AreaCtrl($scope) {
         "name": "Namee Sunico (Alabang, Makati, Pampanga. +63917-564-0647)",
         "text": "",
         "link": ""
+      },{
+        "name": "Natz Mendoza (Antipolo, Rizal, +63917-845-8957)",
+        "text": "",
+        "link": ""
       }
     ]
   }
@@ -133,6 +137,10 @@ function AreaCtrl($scope) {
         "name": "Sunshine Kitchen",
         "text": "Artisanal Pizzas + Salads + Soups + Meals",
         "link": "https://www.facebook.com/sunshinekitchen.resto"
+      },{
+        "name": "Trattoria Poggio Antico (Tuscany, Upper Mckinley Road, Mckinley Hill)",
+        "text": "",
+        "link": "https://www.facebook.com/pages/Trattoria-Poggio-Antico/243179545808945"
       }]
     },{
       "name": "Quezon City",
