@@ -180,6 +180,10 @@ function AreaCtrl($scope) {
         "name": "Gayuma ni Maria (V. Luna Extension, Sikatuna)",
         "text" : "The ORIGINAL bewitchingly gastronomic restaurant gayuma.",
         "link": "https://www.facebook.com/pages/Gayuma-Ni-Maria/148108488537188"
+      },{
+        "name": "Edsel Ramirez (Katipunan, 0917-525-5487)",
+        "text" : "",
+        "link": ""
       }]
     },{
       "name": "Mandaluyong",
