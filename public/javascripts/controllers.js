@@ -10,6 +10,10 @@ function AreaCtrl($scope) {
         "name": "Chicken Charlie",
         "text": "Must. Absolutely. Try. That Signature Burger.",
         "link": "http://chickencharlie.com.ph/branches/"
+      },{
+        "name": "Bo's Coffee",
+        "text": "The home of Just Roasted coffee goodness.",
+        "link": "http://www.boscoffee.com/"
       }
     ]
   }
@@ -77,6 +81,13 @@ function AreaCtrl($scope) {
 
   $scope.areasMetro = [
     {
+      "name": "General", 
+      "branches": [{
+        "name": "Taste Central (delivers within Metro Manila via https://tastecentral.com)",
+        "text": "Some call them snobs. They say they're more like Tastemakers -- actually a happy, people-pleasing bunch obsessed about one thing: Good Taste.",
+        "link": "https://tastecentral.com"
+      }]
+    },{
       "name": "Makati", 
       "branches": [{
         "name": "Commune (Dela Costa St)",
