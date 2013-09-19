@@ -75,6 +75,14 @@ function AreaCtrl($scope) {
         "name": "The Henry Hotel (Cebu)",
         "text": "Fun. Funky. Fabulous.",
         "link": "http://www.thehenryhotel.com/home/ "
+      },{
+        "name": "Café Bonjour, Total Gas Station (Cebu)",
+        "text": "Drop by Café Bonjour and say \"Hello\" to Bayani Brew while you load up on Total Gas!",
+        "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
+      },{
+        "name": "Bo's Coffee",
+        "text": "The home of Just Roasted coffee goodness.",
+        "link": "http://www.boscoffee.com/"
       }
     ]
   }
