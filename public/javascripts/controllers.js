@@ -56,6 +56,10 @@ function AreaCtrl($scope) {
         "name": "Natz Mendoza (Antipolo, Rizal, +63917-845-8957)",
         "text": "",
         "link": ""
+      },{
+        "name": "Captains's Sweet Galley (Dasmarinas, Cavite)",
+        "text": "Cakes, ice cream, and more!!! :) The first cupcake bar and gourmet cakes in Dasmariñas, Cavite.",
+        "link": "https://www.facebook.com/captainssweetgalleyoftreats?fref=ts"
       }
     ]
   }
