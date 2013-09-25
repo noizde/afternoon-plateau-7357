@@ -30,7 +30,7 @@ function AreaCtrl($scope) {
         "link": ""
       },{
         "name": "Starpines (Baguio)",
-        "text": "Go to the cafe where the sweet tooth leads you",
+        "text": "",
         "link": "https://www.facebook.com/pages/Starpines-Minimart/203657109674477"
       },{
         "name": "GK Enchanted Farm (Bulacan)",
