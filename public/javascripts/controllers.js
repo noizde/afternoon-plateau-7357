@@ -216,11 +216,15 @@ function AreaCtrl($scope) {
         "link": "https://www.facebook.com/GansoShabuwayPH"
       }]
     },{
-      "name": "Pasig",
+      "name": "Ortigas/Pasig",
       "branches": [{
         "name": "Yellow Halo (Strata 100, Ortigas)",
         "text" : "Head to this haven at the Wellness Alliance for some guilt-free dining! Then try pole dancing at the nearby Polecats Manila studio while you're at it.",
         "link": "https://www.facebook.com/YellowHaloGuiltFreeKitchen"
+      },{
+        "name": " Q Bistro (The Malayan Plaza, Opal cor. Topaz Road)",
+        "text" : "Because everyone deserves a delightful meal.",
+        "link": "http://www.qbistro.net/"
       }]
     },{
       "name": "Marikina",
