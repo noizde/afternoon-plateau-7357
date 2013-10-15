@@ -133,6 +133,10 @@ function AreaCtrl($scope) {
         "name": "Bayani Wholesale Distribution (624-8593)",
         "text": "For orders in bulk.",
         "link": "http://bayanidistribution.com/"
+      },{
+        "name": "Mesa Filipino Moderne (Greenbelt 5 and Power Plant Mall)",
+        "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
+        "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
       }]
     },{
       "name": "The Fort/BGC",
@@ -164,6 +168,10 @@ function AreaCtrl($scope) {
         "name": "Trattoria Poggio Antico (Tuscany, Upper Mckinley Road, Mckinley Hill)",
         "text": "",
         "link": "https://www.facebook.com/pages/Trattoria-Poggio-Antico/243179545808945"
+      },{
+        "name": "Mesa Filipino Moderne (SM Aura Premier)",
+        "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
+        "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
       }]
     },{
       "name": "Quezon City",
