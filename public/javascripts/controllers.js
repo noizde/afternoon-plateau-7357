@@ -12,7 +12,7 @@ function AreaCtrl($scope) {
         "link": "http://chickencharlie.com.ph/branches/"
       },{
         "name": "Bo's Coffee",
-        "text": "The home of Just Roasted coffee goodness.",
+        "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       }
     ]
@@ -85,7 +85,7 @@ function AreaCtrl($scope) {
         "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
       },{
         "name": "Bo's Coffee",
-        "text": "The home of Just Roasted coffee goodness.",
+        "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       }
     ]
