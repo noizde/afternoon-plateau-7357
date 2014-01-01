@@ -112,7 +112,7 @@ function AreaCtrl($scope) {
       },{
         "name": "Human Nature Zamboanga (Almonte St.)",
         "text": "",
-        "link": "https://humanheartnature.com/buy/find-a-store"
+        "link": "https://www.facebook.com/HNZamboanga"
       }
     ]
   }
@@ -300,7 +300,7 @@ function AreaCtrl($scope) {
       },{
         "name": "Espressamente Illy (SM Mall of Asia and NAIA Terminal 3)",
         "text": "One last sip of Bayani Brew before you take your flight!",
-        "link": ""
+        "link": "http://www.illy.com/wps/wcm/connect/en/home"
       }]
     },{
       "name": "Alabang",
@@ -334,6 +334,10 @@ function AreaCtrl($scope) {
         "name": "Mabuhay Restop (Luneta)",
         "text" : "Travel. Cafe. Museum. Experience the Philippines.",
         "link": "http://www.facebook.com/MabuhayRestop"
+      },{
+        "name": "The Manila Collectible Co.",
+        "text" : "A one-stop-shop that offers the best of Philippine products.",
+        "link": "https://www.facebook.com/manilacollectible"
       }]
     },{
       "name": "Parañaque",
