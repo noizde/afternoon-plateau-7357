@@ -21,6 +21,10 @@ function AreaCtrl($scope) {
   $scope.areasLuzon = {
     "name": "Luzon",
     "branches": [{
+        "name": "Amanpulo Resort (Palawan)",
+        "text": "Yes, our bottles have been to places we haven't set foot on ourselves. We should offer door-to-door delivery to them soon.",
+        "link": "https://www.facebook.com/AmanpuloOfficial"
+      },{
         "name": "Hill Station (Baguio)",
         "text": "Recognized as one of the best restos in Asia by the international Miele Guide. Twice. ‘nuff said.",
         "link": "https://www.facebook.com/pages/Hill-Station/113667221977545"
@@ -45,10 +49,6 @@ function AreaCtrl($scope) {
         "text": "A culinary indulgence smack in the birthplace of our national hero. The Doc would be proud their serving his favourite brew.",
         "link": "http://www.facebook.com/pages/Cafe-Antonio/123163690283"
       },{
-        "name": "Ganso Shabuway (Alabang Town Center)",
-        "text": "",
-        "link": "https://www.facebook.com/GansoShabuwayPH"
-      },{
         "name": "Namee Sunico (Alabang, Makati, Pampanga. +63917-564-0647)",
         "text": "",
         "link": ""
@@ -60,6 +60,14 @@ function AreaCtrl($scope) {
         "name": "Captains's Sweet Galley (Dasmarinas, Cavite)",
         "text": "Cakes, ice cream, and more!!! :) The first cupcake bar and gourmet cakes in Dasmariñas, Cavite.",
         "link": "https://www.facebook.com/captainssweetgalleyoftreats?fref=ts"
+      },{
+        "name": "CAFÉ+ (Maharlika Hi-Way, Plaridel, Bulacan)",
+        "text": "Best coffee and dessert place this side of town!",
+        "link": "https://www.facebook.com/CAFEplusCBD"
+      },{
+        "name": "Everybody's Cafe (San Fernando, Pampanga)",
+        "text": "Home of Authentic Kapampangan Cuisine",
+        "link": "https://www.facebook.com/everybodyscafepampanga"
       }
     ]
   }
@@ -87,6 +95,24 @@ function AreaCtrl($scope) {
         "name": "Bo's Coffee",
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
+      }
+    ]
+  }
+
+  $scope.areasMindanao = {
+    "name": "Mindanao",
+    "branches": [{
+        "name": "Human Nature Cagayan de Oro (Arch. Hayes St.)",
+        "text": "",
+        "link": "https://humanheartnature.com/buy/find-a-store"
+      },{
+        "name": "Human Nature Davao (A. Loyola St., Bo Obrero)",
+        "text": "",
+        "link": "https://humanheartnature.com/buy/find-a-store"
+      },{
+        "name": "Human Nature Zamboanga (Almonte St.)",
+        "text": "",
+        "link": "https://humanheartnature.com/buy/find-a-store"
       }
     ]
   }
@@ -172,6 +198,18 @@ function AreaCtrl($scope) {
         "name": "Mesa Filipino Moderne (SM Aura Premier)",
         "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
         "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
+      },{
+        "name": "Burgers and Brewskies",
+        "text": "Not your ordinary burger joint. It's where awesome, creative burgers meet craft beers (and Bayani Brew!), with unique sides & tasty chicken wings to boot.",
+        "link": "https://www.facebook.com/BBBurgersAndBrewskies88"
+      },{
+        "name": "The Globe Tower (8th Flr Dining Hall and Conference Rooms)",
+        "text": "Thanks to our Bayani Bros at Globe for supporting local social enterprises! Globe -- truly bridging communities!",
+        "link": "http://www.philstar.com/modern-living/2013/08/17/1098311/building-signals-future"
+      },{
+        "name": "S&R Fort",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com"
       }]
     },{
       "name": "Quezon City",
@@ -222,6 +260,14 @@ function AreaCtrl($scope) {
         "name": "Ganso Shabuway (Shangrli-La Plaza)",
         "text" : "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
+      },{
+        "name": "Bo's Coffee (SM Megamall)",
+        "text" : "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
+      },{
+        "name": "Kristina's Premium Inutak (SM Megamall)",
+        "text" : "This Taguig delicacy goes well with our homegrown brews!",
+        "link": "https://www.facebook.com/KristinasInutakPremium"
       }]
     },{
       "name": "Ortigas/Pasig",
@@ -246,16 +292,41 @@ function AreaCtrl($scope) {
         "link": "http://bayanidistribution.com/"
       }]
     },{
+      "name": "Pasay City",
+      "branches": [{
+        "name": "Bo's Coffee (NAIA Terminal 1 and NAIA Terminal 3)",
+        "text": "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
+      },{
+        "name": "Espressamente Illy (SM Mall of Asia and NAIA Terminal 3)",
+        "text": "One last sip of Bayani Brew before you take your flight!",
+        "link": ""
+      }]
+    },{
+      "name": "Alabang",
+      "branches": [{
+        "name": "Bo's Coffee (Molito Complex)",
+        "text": "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
+      },{
+        "name": "Ganso Shabuway (Alabang Town Center)",
+        "text": "",
+        "link": "https://www.facebook.com/GansoShabuwayPH"
+      }]
+    },{
       "name": "Kapitolyo",
       "branches": [{
         "name": "CAB Café",
         "text" : "Negrenses Unite!",
         "link": "https://www.facebook.com/pages/CAB-Cafe/198661923489794"
-        
       },{
         "name": "Edgy Veggy",
         "text" : "Being vegetarian can be this exciting and delicious!",
         "link": "http://www.facebook.com/EdgyVeggy"
+      },{
+        "name": "Nomama Capitol Commons",
+        "text" : "Not your mama’s ramen also serves not your ordinary iced tea.",
+        "link": "https://www.facebook.com/photo.php?fbid=779587008724481&set=a.270613106288543.87447.268437836506070&type=1&theater"
       }]
     },{
       "name": "Manila",
@@ -263,6 +334,13 @@ function AreaCtrl($scope) {
         "name": "Mabuhay Restop (Luneta)",
         "text" : "Travel. Cafe. Museum. Experience the Philippines.",
         "link": "http://www.facebook.com/MabuhayRestop"
+      }]
+    },{
+      "name": "Parañaque",
+      "branches": [{
+        "name": "Pito and Mita (BF Homes, Paranaque)",
+        "text" : "A casual, sit-down restaurant that caters to people of all ages.",
+        "link": "https://www.facebook.com/PitoAndMita"
       }]
     }
   ];

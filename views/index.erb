@@ -29,8 +29,6 @@
       </div>
     </div>
     
-    <!-- <img id="served" src="images/proudly-served-here.jpg" alt=""> -->
-    
     <div id="metro-manila-branches">
       <div class="bold">
         Metro Manila
@@ -71,6 +69,19 @@
       <div>
         <ul>
           <li ng-repeat = "item in areasVisayas.branches">
+            <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
+          </li>
+        </ul>  
+      </div>
+    </div>
+    
+    <div id="mindanao-branches">
+      <div class="bold">
+        {{areasMindanao.name}}
+      </div>
+      <div>
+        <ul>
+          <li ng-repeat = "item in areasMindanao.branches">
             <a ng-href="{{item.link}}" ng-class="{nolink: !item.link.length}">{{item.name}}</a><span ng-show="item.text.length > 0"> - {{item.text}} </span>
           </li>
         </ul>  
