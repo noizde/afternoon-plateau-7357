@@ -76,9 +76,9 @@ function AreaCtrl($scope) {
   $scope.areasVisayas = {
     "name": "Visayas",
     "branches": [{
-        "name": "Café Bob’s (Bacolod)",
-        "text": "Aside from our brews, we heard they also serve Bacolod craft beer too.",
-        "link": "https://www.facebook.com/pages/Caf%C3%A9-Bobs-Lacson/208198005873440"
+        "name": "Bo's Coffee",
+        "text": "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
       },{
         "name": "The Chillage (Cebu)",
         "text": "“Shop. Eat. Play.” is what they say. Just a super chill joint to check out when in the city.",
@@ -92,9 +92,9 @@ function AreaCtrl($scope) {
         "text": "Drop by Café Bonjour and say \"Hello\" to Bayani Brew while you load up on Total Gas!",
         "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
       },{
-        "name": "Bo's Coffee",
-        "text": "Your homegrown brew.",
-        "link": "http://www.boscoffee.com/"
+        "name": "Café Bob’s (Bacolod)",
+        "text": "Aside from our brews, we heard they also serve Bacolod craft beer too.",
+        "link": "https://www.facebook.com/pages/Caf%C3%A9-Bobs-Lacson/208198005873440"
       }
     ]
   }
