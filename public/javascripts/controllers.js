@@ -80,6 +80,10 @@ function AreaCtrl($scope) {
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       },{
+        "name": "Café Bob’s (Bacolod)",
+        "text": "Aside from our brews, we heard they also serve Bacolod craft beer too.",
+        "link": "https://www.facebook.com/pages/Caf%C3%A9-Bobs-Lacson/208198005873440"
+      },{
         "name": "The Chillage (Cebu)",
         "text": "“Shop. Eat. Play.” is what they say. Just a super chill joint to check out when in the city.",
         "link": "https://www.facebook.com/the.chillage.cebu"
@@ -91,10 +95,6 @@ function AreaCtrl($scope) {
         "name": "Café Bonjour, Total Gas Station (Cebu)",
         "text": "Drop by Café Bonjour and say \"Hello\" to Bayani Brew while you load up on Total Gas!",
         "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
-      },{
-        "name": "Café Bob’s (Bacolod)",
-        "text": "Aside from our brews, we heard they also serve Bacolod craft beer too.",
-        "link": "https://www.facebook.com/pages/Caf%C3%A9-Bobs-Lacson/208198005873440"
       }
     ]
   }
@@ -279,6 +279,17 @@ function AreaCtrl($scope) {
         "name": " Q Bistro (The Malayan Plaza, Opal cor. Topaz Road)",
         "text" : "Because everyone deserves a delightful meal.",
         "link": "http://www.qbistro.net/"
+      }]
+    },{
+      "name": "San Juan",
+      "branches": [{
+        "name": "Greenhills Cinemas (Promenade and Theater Mall)",
+        "text" : "",
+        "link": ""
+      },{
+        "name": "Quirky Bacon (Wilson St.)",
+        "text" : "Chef Sharwin Tee of Lifestyle Network's Curiosity Got the Chef serves up his signature quirky take on your favorite comfort food. The QB proudly supports Filipino artisanal makers and their products.",
+        "link": "https://www.facebook.com/qbresto"
       }]
     },{
       "name": "Marikina",
