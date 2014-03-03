@@ -14,6 +14,10 @@ function AreaCtrl($scope) {
         "name": "Bo's Coffee",
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
+      },{
+        "name": "FamilyMart",
+        "text": "Pilot branches - Ortigas (Linden and Regency), Eastwood, BGC, McKinley Hill Science Hub, Glorietta 3, UP Town Center, and UP TechnoHub.",
+        "link": "https://www.facebook.com/familymartph?fref=ts"
       }
     ]
   }
@@ -268,6 +272,10 @@ function AreaCtrl($scope) {
         "name": "Kristina's Premium Inutak (SM Megamall)",
         "text" : "This Taguig delicacy goes well with our homegrown brews!",
         "link": "https://www.facebook.com/KristinasInutakPremium"
+      },{
+        "name": "S&R Shaw",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com/location/shaw.html"
       }]
     },{
       "name": "Ortigas/Pasig",
@@ -301,6 +309,10 @@ function AreaCtrl($scope) {
         "name": "Bayani Wholesale Distribution (624-8593)",
         "text": "For orders in bulk.",
         "link": "http://bayanidistribution.com/"
+      },{
+        "name": "Cafe Lidia",
+        "text": "Truly one of Marikina's best kept secrets!",
+        "link": "http://www.cafe-lidia.com/"
       }]
     },{
       "name": "Pasay City",
