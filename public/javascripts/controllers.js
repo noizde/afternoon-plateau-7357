@@ -16,7 +16,7 @@ function AreaCtrl($scope) {
         "link": "http://www.boscoffee.com/"
       },{
         "name": "FamilyMart",
-        "text": "Pilot branches - Ortigas (Linden and Regency), Eastwood, BGC, McKinley Hill Science Hub, Glorietta 3, UP Town Center, and UP TechnoHub.",
+        "text": "Pilot branches - Ortigas (Linden, Regency, Eton Emerald), Eastwood, BGC, McKinley Hill Science Hub, Glorietta 3, UP Town Center, and UP TechnoHub.",
         "link": "https://www.facebook.com/familymartph?fref=ts"
       }
     ]
