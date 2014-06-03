@@ -65,6 +65,10 @@ function AreaCtrl($scope) {
         "text": "Cakes, ice cream, and more!!! :) The first cupcake bar and gourmet cakes in Dasmariñas, Cavite.",
         "link": "https://www.facebook.com/captainssweetgalleyoftreats?fref=ts"
       },{
+        "name": "Brewfort CAFE (Viewfort Event Venue Governor's Drive, Brgy Cabilang Baybay, Carmona, Cavite)",
+        "text": "",
+        "link": "https://www.facebook.com/pages/Brewfort-CAFE/340342329418574"
+      },{
         "name": "CAFÉ+ (Maharlika Hi-Way, Plaridel, Bulacan)",
         "text": "Best coffee and dessert place this side of town!",
         "link": "https://www.facebook.com/CAFEplusCBD"
@@ -298,6 +302,14 @@ function AreaCtrl($scope) {
         "name": "Quirky Bacon (Wilson St.)",
         "text" : "Chef Sharwin Tee of Lifestyle Network's Curiosity Got the Chef serves up his signature quirky take on your favorite comfort food. The QB proudly supports Filipino artisanal makers and their products.",
         "link": "https://www.facebook.com/qbresto"
+      },{
+        "name": "Pukka Chow (67A Washington St.)",
+        "text" : "For bits of edible education.",
+        "link": "https://www.facebook.com/pukkachow"
+      },{
+        "name": "Urban Pantry (Greenhills Promenade 3)",
+        "text" : "There's something new in your neighborhood!",
+        "link": "https://www.facebook.com/urbanpantryPH"
       }]
     },{
       "name": "Marikina",
