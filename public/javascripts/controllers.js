@@ -76,6 +76,10 @@ function AreaCtrl($scope) {
         "name": "Everybody's Cafe (San Fernando, Pampanga)",
         "text": "Home of Authentic Kapampangan Cuisine",
         "link": "https://www.facebook.com/everybodyscafepampanga"
+      },{
+        "name": "S&R Pampanga",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com/location/pampanga.html"
       }
     ]
   }
@@ -171,6 +175,10 @@ function AreaCtrl($scope) {
         "name": "Mesa Filipino Moderne (Greenbelt 5 and Power Plant Mall)",
         "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
         "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
+      },{
+        "name": "Landmark",
+        "text": "",
+        "link": ""
       }]
     },{
       "name": "The Fort/BGC",
@@ -261,6 +269,14 @@ function AreaCtrl($scope) {
         "name": "Edsel Ramirez (Katipunan, 0917-525-5487)",
         "text" : "",
         "link": ""
+      },{
+        "name": "Be Good Store (ELJ Bldg, ABS-CBN Loop)",
+        "text" : "Ms. Bernadette Sembrano's passion project. Choose Goodness.",
+        "link": ""
+      },{
+        "name": "Landmark (Trinoma)",
+        "text": "",
+        "link": ""
       }]
     },{
       "name": "Mandaluyong",
@@ -347,6 +363,14 @@ function AreaCtrl($scope) {
         "name": "Ganso Shabuway (Alabang Town Center)",
         "text": "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
+      },{
+        "name": "S&R Alabang",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com/location/alabang.html"
+      },{
+        "name": "Human Nature Alabang",
+        "text": "",
+        "link": "https://www.facebook.com/hn.alabang"
       }]
     },{
       "name": "Kapitolyo",
