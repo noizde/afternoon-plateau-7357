@@ -234,14 +234,6 @@ function AreaCtrl($scope) {
         "text" : "The watering hole for social entrepreneurs. Then visit the Human Nature flagship store downstairs.",
         "link": "http://www.facebook.com/EnchantedFarmCafe"
       },{
-        "name": "ElarZ (Speaker Perez and soon other kiosks)",
-        "text" : "After pigging out on the pambansang lechon, drinking copious amounts of Bayani Brew ensures your cholesterol stays low.",
-        "link": "http://elarzlechon.com/"
-      },{
-        "name": "Elorde Boxing Gym (Katipunan Ave & Don Antonio Ave)",
-        "text" : "After that knock-out punch, nothing’s better than gulping down an ice-cold Bayani Brew.",
-        "link": "http://www.elordeboxinggym.com/ "
-      },{
         "name": "Mario’s (Tomas Morato)",
         "text" : "It’s the longest running resto on the block. Dine there and you’ll find out why.",
         "link": "http://www.marios.com.ph/"
@@ -330,10 +322,6 @@ function AreaCtrl($scope) {
     },{
       "name": "Marikina",
       "branches": [{
-        "name": "The Frap Bar",
-        "text": "Rumor has it the Fraps are just as good, if not better than, the iced tea.",
-        "link": "http://thefrapbar.weebly.com/ "
-      },{
         "name": "Bayani Wholesale Distribution (624-8593)",
         "text": "For orders in bulk.",
         "link": "http://bayanidistribution.com/"
