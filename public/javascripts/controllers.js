@@ -7,16 +7,16 @@ function AreaCtrl($scope) {
         "text": "Our super pro-Philippines, pro-poor, pro-environment partner",
         "link": "http://humanheartnature.com/buy/find-a-store"
       },{
-        "name": "Chicken Charlie",
-        "text": "Must. Absolutely. Try. That Signature Burger.",
-        "link": "http://chickencharlie.com.ph/branches/"
-      },{
         "name": "Bo's Coffee",
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       },{
+        "name": "Chicken Charlie",
+        "text": "Must. Absolutely. Try. That Signature Burger.",
+        "link": "http://chickencharlie.com.ph/branches/"
+      },{
         "name": "FamilyMart",
-        "text": "Pilot branches - Ortigas (Linden, Regency, Eton Emerald), Eastwood, BGC, McKinley Hill Science Hub, Glorietta 3, UP Town Center, and UP TechnoHub.",
+        "text": "BGC, Makati, Mandaluyong, Ortigas, Pasig, Quezon City, Paranaque, and San Juan branches.",
         "link": "https://www.facebook.com/familymartph?fref=ts"
       }
     ]
@@ -107,6 +107,9 @@ function AreaCtrl($scope) {
         "name": "Café Bonjour, Total Gas Station (Cebu)",
         "text": "Drop by Café Bonjour and say \"Hello\" to Bayani Brew while you load up on Total Gas!",
         "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
+      },{
+        "name": "Cebu Reseller (0917-364-1246)",
+        "link": "ingkosbayanibrew@gmail.com"
       }
     ]
   }
@@ -172,10 +175,6 @@ function AreaCtrl($scope) {
         "text": "For orders in bulk.",
         "link": "http://bayanidistribution.com/"
       },{
-        "name": "Mesa Filipino Moderne (Greenbelt 5 and Power Plant Mall)",
-        "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
-        "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
-      },{
         "name": "Landmark",
         "text": "",
         "link": ""
@@ -203,17 +202,9 @@ function AreaCtrl($scope) {
         "text": "Your ultimate go-to for your midnight munchies on late night Fridays/Saturdays or right after stalking the Azkals/Younghusbands during soccer practice (what? They don’t play there?)",
         "link": "https://www.facebook.com/midnightmercato"
       },{
-        "name": "Sunshine Kitchen",
-        "text": "Artisanal Pizzas + Salads + Soups + Meals",
-        "link": "https://www.facebook.com/sunshinekitchen.resto"
-      },{
         "name": "Trattoria Poggio Antico (Tuscany, Upper Mckinley Road, Mckinley Hill)",
         "text": "",
         "link": "https://www.facebook.com/pages/Trattoria-Poggio-Antico/243179545808945"
-      },{
-        "name": "Mesa Filipino Moderne (SM Aura Premier)",
-        "text": "Head to Mesa for a taste of all-Filipino goodness! A perfect match for Bayani Brew!",
-        "link": "https://www.facebook.com/pages/Mesa-Filipino-Moderne-Restaurant/497882890249472?ref=ts&fref=ts"
       },{
         "name": "Burgers and Brewskies",
         "text": "Not your ordinary burger joint. It's where awesome, creative burgers meet craft beers (and Bayani Brew!), with unique sides & tasty chicken wings to boot.",
@@ -234,17 +225,9 @@ function AreaCtrl($scope) {
         "text" : "The watering hole for social entrepreneurs. Then visit the Human Nature flagship store downstairs.",
         "link": "http://www.facebook.com/EnchantedFarmCafe"
       },{
-        "name": "Mario’s (Tomas Morato)",
-        "text" : "It’s the longest running resto on the block. Dine there and you’ll find out why.",
-        "link": "http://www.marios.com.ph/"
-      },{
         "name": "Mezza Norte Trinoma",
         "text" : "Ultimate eats at the North every Friday, Sat and Sunday!",
         "link": "http://www.ourawesomeplanet.com/awesome/2013/05/mezza-norte-at-trinoma-thank-you-for-the-support-for-the-successful-big-move-to-trinoma.html"
-      },{
-        "name": "Nomama (Scout Tuason)",
-        "text" : "Not your mama’s ramen also serves not your ordinary iced tea.",
-        "link": "http://www.facebook.com/nomamaramen"
       },{
         "name": "The Appraisery (Cubao X)",
         "text" : "Great concept! Vintage fashion meets yummy food. And while snacking and shopping, have a nice chit-chat with the store owner/bartender.",
@@ -269,6 +252,10 @@ function AreaCtrl($scope) {
         "name": "Landmark (Trinoma)",
         "text": "",
         "link": ""
+      },{
+        "name": "S&R Congressional",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com/location/congressional.html"
       }]
     },{
       "name": "Mandaluyong",
@@ -281,10 +268,6 @@ function AreaCtrl($scope) {
         "text" : "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       },{
-        "name": "Kristina's Premium Inutak (SM Megamall)",
-        "text" : "This Taguig delicacy goes well with our homegrown brews!",
-        "link": "https://www.facebook.com/KristinasInutakPremium"
-      },{
         "name": "S&R Shaw",
         "text": "For that membership shopping and treasure hunt experience in one.",
         "link": "http://www.snrshopping.com/location/shaw.html"
@@ -292,13 +275,11 @@ function AreaCtrl($scope) {
     },{
       "name": "Ortigas/Pasig",
       "branches": [{
-        "name": "Yellow Halo (Strata 100, Ortigas)",
-        "text" : "Head to this haven at the Wellness Alliance for some guilt-free dining! Then try pole dancing at the nearby Polecats Manila studio while you're at it.",
-        "link": "https://www.facebook.com/YellowHaloGuiltFreeKitchen"
+        "name": "FamilyMart",
+        "link": "https://www.facebook.com/familymartph?fref=ts"
       },{
-        "name": " Q Bistro (The Malayan Plaza, Opal cor. Topaz Road)",
-        "text" : "Because everyone deserves a delightful meal.",
-        "link": "http://www.qbistro.net/"
+        "name": "Subspace Coffee",
+        "link": "http://www.facebook.com/subspace.coffee"
       }]
     },{
       "name": "San Juan",
@@ -359,6 +340,10 @@ function AreaCtrl($scope) {
         "name": "Human Nature Alabang",
         "text": "",
         "link": "https://www.facebook.com/hn.alabang"
+      },{
+        "name": "The Farm Organics",
+        "text": "",
+        "link": "http://www.facebook.com/TheFarmResto"
       }]
     },{
       "name": "Kapitolyo",
@@ -385,6 +370,9 @@ function AreaCtrl($scope) {
         "name": "The Manila Collectible Co.",
         "text" : "A one-stop-shop that offers the best of Philippine products.",
         "link": "https://www.facebook.com/manilacollectible"
+      },{
+        "name": "Bambike Ecotours",
+        "link": "http://www.facebook.com/BambikeEcotours"
       }]
     },{
       "name": "Parañaque",
@@ -392,6 +380,9 @@ function AreaCtrl($scope) {
         "name": "Pito and Mita (BF Homes, Paranaque)",
         "text" : "A casual, sit-down restaurant that caters to people of all ages.",
         "link": "https://www.facebook.com/PitoAndMita"
+      },{
+        "name": "FamilyMart",
+        "link": "https://www.facebook.com/familymartph?fref=ts"
       }]
     }
   ];
