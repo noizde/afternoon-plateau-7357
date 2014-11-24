@@ -92,6 +92,10 @@ function AreaCtrl($scope) {
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       },{
+        "name": "Titos Resto & Grill (Boracay)",
+        "text": "Eat here if you want your Bayani Brew with the best sunset view!",
+        "link": "http://www.facebook.com/Titos.RestoGrill"
+      },{
         "name": "Café Bob’s (Bacolod)",
         "text": "Aside from our brews, we heard they also serve Bacolod craft beer too.",
         "link": "https://www.facebook.com/pages/Caf%C3%A9-Bobs-Lacson/208198005873440"
