@@ -11,13 +11,21 @@ function AreaCtrl($scope) {
         "text": "Your homegrown brew.",
         "link": "http://www.boscoffee.com/"
       },{
-        "name": "Chicken Charlie",
-        "text": "Must. Absolutely. Try. That Signature Burger.",
-        "link": "http://chickencharlie.com.ph/branches/"
-      },{
         "name": "FamilyMart",
         "text": "BGC, Makati, Mandaluyong, Ortigas, Pasig, Quezon City, Paranaque, and San Juan branches.",
         "link": "https://www.facebook.com/familymartph?fref=ts"
+      },{
+        "name": "Rustan's Supermarket",
+        "text": "Where shopping for food (and Bayani Brew) is a pleasure!",
+        "link": "www.rustansfresh.com"
+      },{
+        "name": "Marketplace by Rustan's (Rockwell Power Plant and Boni High St. BGC)",
+        "text": "A more upscale Rustan's?!? 'Nuff said.",
+        "link": "www.rustansfresh.com"
+      },{
+        "name": "Robinsons Selections",
+        "text": "Healthier days start here.",
+        "link": "https://www.facebook.com/RobinsonsSelections"
       }
     ]
   }
@@ -280,9 +288,11 @@ function AreaCtrl($scope) {
       "name": "Ortigas/Pasig",
       "branches": [{
         "name": "FamilyMart",
+        "text": "If the line for #unliTwirl is too long, you know what else you can buy from there.",
         "link": "https://www.facebook.com/familymartph?fref=ts"
       },{
         "name": "Subspace Coffee",
+        "text": "Purple reigns! We recommend Subspace Coffee's Purple Potato Latte too!",
         "link": "http://www.facebook.com/subspace.coffee"
       }]
     },{
@@ -376,6 +386,7 @@ function AreaCtrl($scope) {
         "link": "https://www.facebook.com/manilacollectible"
       },{
         "name": "Bambike Ecotours",
+        "text" : "We heard the owner's a #mowdel. Go on a Bambike tour and you might see him too!",
         "link": "http://www.facebook.com/BambikeEcotours"
       }]
     },{
