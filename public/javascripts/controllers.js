@@ -17,11 +17,11 @@ function AreaCtrl($scope) {
       },{
         "name": "Rustan's Supermarket",
         "text": "Where shopping for food (and Bayani Brew) is a pleasure!",
-        "link": "www.rustansfresh.com"
+        "link": "http://www.rustansfresh.com"
       },{
         "name": "Marketplace by Rustan's (Rockwell Power Plant and Boni High St. BGC)",
         "text": "A more upscale Rustan's?!? 'Nuff said.",
-        "link": "www.rustansfresh.com"
+        "link": "http://www.rustansfresh.com"
       },{
         "name": "Robinsons Selections",
         "text": "Healthier days start here.",
