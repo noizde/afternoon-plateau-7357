@@ -313,10 +313,6 @@ function AreaCtrl($scope) {
     },{
       "name": "Marikina",
       "branches": [{
-        "name": "Bayani Wholesale Distribution (624-8593)",
-        "text": "For orders in bulk.",
-        "link": "http://bayanidistribution.com/"
-      },{
         "name": "Cafe Lidia",
         "text": "Truly one of Marikina's best kept secrets!",
         "link": "http://www.cafe-lidia.com/"
