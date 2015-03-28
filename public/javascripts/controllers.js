@@ -183,10 +183,6 @@ function AreaCtrl($scope) {
         "text": "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
       },{
-        "name": "Bayani Wholesale Distribution (624-8593)",
-        "text": "For orders in bulk.",
-        "link": "http://bayanidistribution.com/"
-      },{
         "name": "Landmark",
         "text": "",
         "link": ""
