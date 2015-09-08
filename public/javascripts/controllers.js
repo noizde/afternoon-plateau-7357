@@ -290,6 +290,10 @@ function AreaCtrl($scope) {
         "name": "Subspace Coffee",
         "text": "Purple reigns! We recommend Subspace Coffee's Purple Potato Latte too!",
         "link": "http://www.facebook.com/subspace.coffee"
+      },{
+        "name": "Co.lab",
+        "text": "co.lab offers a coworking space created to spark collaborative fusion among like-minded individuals.",
+        "link": "http://colab.ph"
       }]
     },{
       "name": "San Juan",
