@@ -12,7 +12,7 @@ function AreaCtrl($scope) {
         "link": "http://www.boscoffee.com/"
       },{
         "name": "FamilyMart",
-        "text": "BGC, Makati, Mandaluyong, Ortigas, Pasig, Quezon City, Paranaque, and San Juan branches.",
+        "text": "If the line for #unliTwirl is too long, you know what else you can buy from there.",
         "link": "https://www.facebook.com/familymartph?fref=ts"
       },{
         "name": "Rustan's Supermarket",
@@ -116,10 +116,6 @@ function AreaCtrl($scope) {
         "text": "Fun. Funky. Fabulous.",
         "link": "http://www.thehenryhotel.com/home/ "
       },{
-        "name": "Café Bonjour, Total Gas Station (Cebu)",
-        "text": "Drop by Café Bonjour and say \"Hello\" to Bayani Brew while you load up on Total Gas!",
-        "link": "http://www.totaloil.com.ph/service-stations/shop-services/cafe-bonjour.html"
-      },{
         "name": "Cebu Reseller (0917-364-1246)",
         "link": "ingkosbayanibrew@gmail.com"
       }
@@ -159,29 +155,37 @@ function AreaCtrl($scope) {
         "text": "A coffee commune. Tune in for their happy hours too. Or better yet, just order iced tea anytime!",
         "link": "https://www.facebook.com/CommunePH"
       },{
-        "name": "Cucina Andare (Glorietta Park)",
-        "text": "Open Fri to Sun nights! Cool food trucks transport you anywhere your stomach hankers for with their culinary creativity (disclaimer: the trucks do not actually move)",
-        "link": "http://www.ourawesomeplanet.com/awesome/2012/11/cucina-andare-the-first-food-truck-market-opens-in-glorietta-park.html ",
-      },{
         "name": "Juju Eats (Pasong Tamo Extension)",
         "text": "A new spin on salad. Eating this healthy has never been this yummy.",
         "link": "https://www.facebook.com/JujuEats "
       },{
-        "name": "Fairmont Hotel",
-        "text": "Naks, ang sosy.",
-        "link": "http://www.fairmont.com/makati/ "
+        "name": "Bo's Coffee",
+        "text" : "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
       },{
-        "name": "Anton Guerrero (+63917-884-4111)",
-        "text": "Reseller of everything hard to find. But first you have to find him.",
-        "link": ""
-      },{
-        "name": "Rockwell Power Plant Mall (P1 Concourse Level)",
+        "name": "Phobobo, Hole in the Wall (Century City Mall)",
         "text": "",
-        "link": ""
+        "link": "http://www.facebook.com/holeinthewallPH"
+      },{
+        "name": "Wasabi Warriors (Century City Mall)",
+        "text": "",
+        "link": "http://www.facebook.com/WasabiWarriorsPH"
+      },{
+        "name": "La Lola Churreria (Rockwell)",
+        "text": "Hola!",
+        "link": "http://www.facebook.com/pages/La-Lola-Churreria-Uptown-Center"
+      },{
+        "name": "The Kismet Café & Wellness Market (P. Burgos St. corner Kalayaan Ave.)",
+        "text": "",
+        "link": "http://www.facebook.com/kismet108"
       },{
         "name": "Ganso Shabuway (Greenbelt 5 and Power Plant Mall)",
         "text": "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
+      },{
+        "name": "Rockwell Power Plant Mall (Marketplace by Rustan’s and P1 Concourse Level)",
+        "text": "",
+        "link": ""
       },{
         "name": "Landmark",
         "text": "",
@@ -190,17 +194,17 @@ function AreaCtrl($scope) {
     },{
       "name": "The Fort/BGC",
       "branches": [{
-        "name": "Slice",
-        "text": "Choco yema, choco stirrer, mochamisu, and oh look, BAYANI BREW! Head to Slice on High St and try the new addition to their menu!",
-        "link": "http://www.facebook.com/SliceHighSt"
-      },{
         "name": "Wrong Ramen",
         "text": "Seems odd isn’t it? But pairing BB with this rebellious Jap fusion food makes it oh soooo right!",
         "link": "https://www.facebook.com/WrongRamen"
       },{
-        "name": "Casa Marcos",
-        "text": "Old meets the new brew. Have gambas, steak ala pobre, or maybe the sopa de mariscos. Such well-loved Spanish dishes pair up real nicely with Bayani Brew. Si? Si!",
-        "link": "http://www.facebook.com/casamarcos"
+        "name": "Burgers and Brewskies",
+        "text": "Not your ordinary burger joint. It's where awesome, creative burgers meet craft beers (and Bayani Brew!), with unique sides & tasty chicken wings to boot.",
+        "link": "https://www.facebook.com/BBBurgersAndBrewskies88"
+      },{
+        "name": "La Lola Churreria (Serendra and SM Aura)",
+        "text": "Hola!",
+        "link": "http://www.facebook.com/pages/La-Lola-Churreria-Uptown-Center"
       },{
         "name": "Manos Nail Lounge",
         "text": "Yes, Bayani Brew is best enjoyed while having a foot spa. And with pink nail polish to boot.",
@@ -210,17 +214,37 @@ function AreaCtrl($scope) {
         "text": "Your ultimate go-to for your midnight munchies on late night Fridays/Saturdays or right after stalking the Azkals/Younghusbands during soccer practice (what? They don’t play there?)",
         "link": "https://www.facebook.com/midnightmercato"
       },{
+        "name": "Slice",
+        "text": "Choco yema, choco stirrer, mochamisu, and oh look, BAYANI BREW! Head to Slice on High St and try the new addition to their menu!",
+        "link": "http://www.facebook.com/SliceHighSt"
+      },{
         "name": "Trattoria Poggio Antico (Tuscany, Upper Mckinley Road, Mckinley Hill)",
         "text": "",
         "link": "https://www.facebook.com/pages/Trattoria-Poggio-Antico/243179545808945"
       },{
-        "name": "Burgers and Brewskies",
-        "text": "Not your ordinary burger joint. It's where awesome, creative burgers meet craft beers (and Bayani Brew!), with unique sides & tasty chicken wings to boot.",
-        "link": "https://www.facebook.com/BBBurgersAndBrewskies88"
+        "name": "Wasabi Warriors (Serendra)",
+        "text": "",
+        "link": "http://www.facebook.com/WasabiWarriorsPH"
+      },{
+        "name": "Gold's Gym (Bonifacio High St.)",
+        "text": "",
+        "link": "http://www.facebook.com/WasabiWarriorsPH"
+      },{
+        "name": "Bo's Coffee (Bonifacio High St.)",
+        "text" : "Your homegrown brew.",
+        "link": "http://www.boscoffee.com/"
+      },{
+        "name": "BHS Cinema (Potato Cornder and Nuts About Candy, Central Square, Bonifacio High St.)",
+        "text" : "",
+        "link": ""
       },{
         "name": "The Globe Tower (8th Flr Dining Hall and Conference Rooms)",
         "text": "Thanks to our Bayani Bros at Globe for supporting local social enterprises! Globe -- truly bridging communities!",
         "link": "http://www.philstar.com/modern-living/2013/08/17/1098311/building-signals-future"
+      },{
+        "name": "Marketplace by Rustan's (Central Square, Bonifacio High St.)",
+        "text": "",
+        "link": ""
       },{
         "name": "S&R Fort",
         "text": "For that membership shopping and treasure hunt experience in one.",
@@ -233,25 +257,29 @@ function AreaCtrl($scope) {
         "text" : "The watering hole for social entrepreneurs. Then visit the Human Nature flagship store downstairs.",
         "link": "http://www.facebook.com/EnchantedFarmCafe"
       },{
-        "name": "Mezza Norte Trinoma",
-        "text" : "Ultimate eats at the North every Friday, Sat and Sunday!",
-        "link": "http://www.ourawesomeplanet.com/awesome/2013/05/mezza-norte-at-trinoma-thank-you-for-the-support-for-the-successful-big-move-to-trinoma.html"
-      },{
-        "name": "The Appraisery (Cubao X)",
-        "text" : "Great concept! Vintage fashion meets yummy food. And while snacking and shopping, have a nice chit-chat with the store owner/bartender.",
-        "link": "http://www.theappraisery.com/"
-      },{
-        "name": "Adarna Food and Culture (Kalayaan Ave)",
-        "text" : "Serves historical and heirloom cuisine. A mini-museum and home to cultural and art events like the Tertulia!",
-        "link": "https://www.facebook.com/pages/Adarna-Food-and-Culture-Restaurant/42990250925"
-      },{
         "name": "Gayuma ni Maria (V. Luna Extension, Sikatuna)",
         "text" : "The ORIGINAL bewitchingly gastronomic restaurant gayuma.",
         "link": "https://www.facebook.com/pages/Gayuma-Ni-Maria/148108488537188"
       },{
-        "name": "Edsel Ramirez (Katipunan, 0917-525-5487)",
+        "name": "Café MITHI (Maginhawa St.)",
         "text" : "",
-        "link": ""
+        "link": "http://www.facebook.com/MITHIMaginhawa"
+      },{
+        "name": "La Lola Churreria (Serendra and SM Aura)",
+        "text" : "Hola!",
+        "link": "http://www.facebook.com/pages/La-Lola-Churreria-Uptown-Center"
+      },{
+        "name": "The Clean Plate by Twist (UP Town Center and TriNoma)",
+        "text" : "",
+        "link": "http://www.facebook.com/pages/The-Clean-Plate-by-Twist"
+      },{
+        "name": "Islands Pasalubong (Katipunan Ext.)",
+        "text" : "",
+        "link": "http://www.facebook.com/islandspasalubongkatipunan"
+      },{
+        "name": "Gold's Gym (Acropolis)",
+        "text" : "",
+        "link": "http://www.facebook.com/GoldsGymPH"
       },{
         "name": "Be Good Store (ELJ Bldg, ABS-CBN Loop)",
         "text" : "Ms. Bernadette Sembrano's passion project. Choose Goodness.",
@@ -283,17 +311,37 @@ function AreaCtrl($scope) {
     },{
       "name": "Ortigas/Pasig",
       "branches": [{
-        "name": "FamilyMart",
-        "text": "If the line for #unliTwirl is too long, you know what else you can buy from there.",
-        "link": "https://www.facebook.com/familymartph?fref=ts"
+        "name": "Co.lab (Brixton St., Kapitolyo)",
+        "text": "a coworking space created to spark collaborative fusion among like-minded individuals.",
+        "link": "http://colab.ph"
+      },{
+        "name": "CAB Café",
+        "text" : "Negrenses Unite!",
+        "link": "https://www.facebook.com/pages/CAB-Cafe/198661923489794"
+      },{
+        "name": "Burgers and Brewskies (Capitol Commons)",
+        "text" : "",
+        "link": "http://www.facebook.com/BBBurgersAndBrewskies88"
+      },{
+        "name": "I am Kim",
+        "text" : "",
+        "link": "http://www.facebook.com/I-Am-Kim-1406533722976645"
+      },{
+        "name": "Yoga + (The Podium)",
+        "text" : "",
+        "link": ""
       },{
         "name": "Subspace Coffee",
         "text": "Purple reigns! We recommend Subspace Coffee's Purple Potato Latte too!",
         "link": "http://www.facebook.com/subspace.coffee"
       },{
-        "name": "Co.lab",
-        "text": "co.lab offers a coworking space created to spark collaborative fusion among like-minded individuals.",
-        "link": "http://colab.ph"
+        "name": "FamilyMart",
+        "text": "If the line for #unliTwirl is too long, you know what else you can buy from there.",
+        "link": "https://www.facebook.com/familymartph?fref=ts"
+      },{
+        "name": "Pioneer Center",
+        "text" : "",
+        "link": ""
       }]
     },{
       "name": "San Juan",
@@ -302,17 +350,9 @@ function AreaCtrl($scope) {
         "text" : "",
         "link": ""
       },{
-        "name": "Quirky Bacon (Wilson St.)",
-        "text" : "Chef Sharwin Tee of Lifestyle Network's Curiosity Got the Chef serves up his signature quirky take on your favorite comfort food. The QB proudly supports Filipino artisanal makers and their products.",
-        "link": "https://www.facebook.com/qbresto"
-      },{
-        "name": "Pukka Chow (67A Washington St.)",
-        "text" : "For bits of edible education.",
-        "link": "https://www.facebook.com/pukkachow"
-      },{
-        "name": "Urban Pantry (Greenhills Promenade 3)",
-        "text" : "There's something new in your neighborhood!",
-        "link": "https://www.facebook.com/urbanpantryPH"
+        "name": "UniMart",
+        "text" : "",
+        "link": ""
       }]
     },{
       "name": "Marikina",
@@ -343,10 +383,6 @@ function AreaCtrl($scope) {
         "text": "",
         "link": "https://www.facebook.com/GansoShabuwayPH"
       },{
-        "name": "S&R Alabang",
-        "text": "For that membership shopping and treasure hunt experience in one.",
-        "link": "http://www.snrshopping.com/location/alabang.html"
-      },{
         "name": "Human Nature Alabang",
         "text": "",
         "link": "https://www.facebook.com/hn.alabang"
@@ -354,25 +390,18 @@ function AreaCtrl($scope) {
         "name": "The Farm Organics",
         "text": "",
         "link": "http://www.facebook.com/TheFarmResto"
-      }]
-    },{
-      "name": "Kapitolyo",
-      "branches": [{
-        "name": "CAB Café",
-        "text" : "Negrenses Unite!",
-        "link": "https://www.facebook.com/pages/CAB-Cafe/198661923489794"
       },{
-        "name": "Edgy Veggy",
-        "text" : "Being vegetarian can be this exciting and delicious!",
-        "link": "http://www.facebook.com/EdgyVeggy"
-      },{
-        "name": "Nomama Capitol Commons",
-        "text" : "Not your mama’s ramen also serves not your ordinary iced tea.",
-        "link": "https://www.facebook.com/photo.php?fbid=779587008724481&set=a.270613106288543.87447.268437836506070&type=1&theater"
+        "name": "S&R Alabang",
+        "text": "For that membership shopping and treasure hunt experience in one.",
+        "link": "http://www.snrshopping.com/location/alabang.html"
       }]
     },{
       "name": "Manila",
       "branches": [{
+        "name": "Bambike Ecotours",
+        "text" : "We heard the owner's a #mowdel. Go on a Bambike tour and you might see him too!",
+        "link": "http://www.facebook.com/BambikeEcotours"
+      },{
         "name": "Mabuhay Restop (Luneta)",
         "text" : "Travel. Cafe. Museum. Experience the Philippines.",
         "link": "http://www.facebook.com/MabuhayRestop"
@@ -381,9 +410,9 @@ function AreaCtrl($scope) {
         "text" : "A one-stop-shop that offers the best of Philippine products.",
         "link": "https://www.facebook.com/manilacollectible"
       },{
-        "name": "Bambike Ecotours",
-        "text" : "We heard the owner's a #mowdel. Go on a Bambike tour and you might see him too!",
-        "link": "http://www.facebook.com/BambikeEcotours"
+        "name": "Café Laya (Taft Ave.)",
+        "text" : "",
+        "link": ""
       }]
     },{
       "name": "Parañaque",
